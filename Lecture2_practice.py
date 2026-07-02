@@ -34,7 +34,7 @@ while amount_saved < down_payment:
 print(f"Number of months: {months}")
 
 
-#Part C: Given an initial deposit amount, our goal is to find the lowest rate of return that enables us to save enough money for the down payment in 3 years.
+#Part C: Given an initial deposit amount, our goal is to find the lowest rate of return that enables us to save enough money for the down payment in 3 years
 initial_deposit= float(input("Initial amount being deposited into account: "))
 house_cost=float(800000)
 portion_down_payment= float(0.25)
