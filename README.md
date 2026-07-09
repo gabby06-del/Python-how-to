@@ -27,11 +27,11 @@ To teach Python from the ground up, one lecture at a time, while building real i
 
 ## 🛠️ Projects
 
-| After Lecture | Project | Skills Applied |
-|---------------|---------|-----------------|
-| 5             | TBD     | TBD             |
-| 10            | TBD     | TBD             |
-| 15            | TBD     | TBD             |
+| After Lecture | Project            | Skills Applied |
+|---------------|--------------------|-----------------|
+| 5             | Simple Calculator  |<ul><li> Control flow</li><li> Loops </li><li> User input/type conversation </li><li>String formatting </li><li>Boolean testing</li></ul>         |
+| 10            | TBD                | TBD             |
+| 15            | TBD                | TBD             |
 
 *(Table will be updated as projects are completed.)*
 
